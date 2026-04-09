@@ -6,6 +6,10 @@ import io.vertx.sqlclient.Row;
 import io.vertx.sqlclient.RowSet;
 import io.vertx.sqlclient.Tuple;
 
+
+
+
+
 public class UserRepository {
 
   private final MySQLPool client;
